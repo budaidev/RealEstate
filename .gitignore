@@ -2,3 +2,4 @@
 .DS_Store
 .ipynb_checkpoints/RealEstate-checkpoint.ipynb
 data/bkk/stop_times.txt
+data/details
